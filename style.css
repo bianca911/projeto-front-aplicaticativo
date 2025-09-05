@@ -1,0 +1,48 @@
+body {
+    background-color: #00002b  !important;
+}
+
+
+.logo1 {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 15px;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.logo2 {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 35px;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+    font-weight: 800; 
+}
+
+.logo3{
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    font-weight: 800; 
+
+}
+
+.texto1{
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 25px;
+    font-style: normal;
+    color: white;
+    text-align: center;
+   
+}
+
