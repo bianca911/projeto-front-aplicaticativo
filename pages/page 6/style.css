@@ -1,0 +1,21 @@
+body {
+    background-color: #00002B !important;
+}
+
+.titulo{
+    font-family: "Bungee", sans-serif;
+    font-size: 40px;
+    color: #FDBB5F;
+    text-align: center;    
+}
+
+.romance {
+    font-family: "Bungee", sans-serif;
+    color: #FF3860;
+    font-size: 32px;
+    padding-left: 6px;
+}
+
+img {
+    border-radius: 12px;
+}
