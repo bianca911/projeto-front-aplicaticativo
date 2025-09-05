@@ -1,0 +1,40 @@
+body {
+    background-color: #00002B !important;
+}
+
+.texto {
+  font-family: "Holtwood One SC", serif;
+  font-size: 50px;
+  font-weight: 100;
+  font-style: normal;
+  color: #244A80;
+  margin-left: 90px;
+}
+.aaa{
+    font-size: 90px
+}
+.texto2 {
+    font-family: 'Haettenschweiler', sans-serif;
+    font-weight: 100;
+    color: #377A98;
+}
+.aa {
+    margin-left: 45px;
+    font-weight: 100;
+}
+
+.bananinha {
+    display: flex;
+    align-items: center;
+    gap: 250px;
+}
+.img {
+    display: flex;
+    align-items: center;
+    gap: 300px;
+}
+.img2 {
+  height: 300px;
+  width: 400;
+  margin-left: 30px;
+}
