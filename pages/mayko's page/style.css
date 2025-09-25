@@ -22,6 +22,9 @@ body{
     margin-left: 7px;
 }
 .nome1{
-        font-family: "Holtwood One SC", serif;
+    font-family: "Imbue", serif;
  color: white;
+ font-size: 10px;
+ gap: 35px;
+ margin-left: auto;
 }
