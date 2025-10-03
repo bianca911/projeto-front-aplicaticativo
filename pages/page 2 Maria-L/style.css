@@ -18,7 +18,14 @@ font-style: normal;
 color: #62C455;
 }
 
-.la{
-    font-size: 300%;
+img{
+    height: 300px;
+    width: auto;
+    padding-left: 30px;
 }
 
+.filmes{
+    display: flex;
+    align-items: center;
+    gap: 300;
+}
