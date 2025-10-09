@@ -19,6 +19,7 @@ body {
 img {
     border-radius: 12px;
     padding-left: 5px;
+    
 }
 .antes {
     font-size: 16px;
@@ -31,4 +32,37 @@ img {
     padding-left: 5px;
     gap: 35px;
     margin-right: 1150px;
+}
+
+.ind {
+    width: 20px;
+}
+
+.ava {
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 5px;
+    gap: 35px;
+    margin-right: 1150px;
+}
+.estrela {
+    padding-bottom: -5px;
+    margin-top: -21px;
+    
+}
+
+.Min {
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 5px;
+    gap: 35px;
+    margin-right: 1150px;
+}
+
+.dura {
+    display: inline-block;
+    
+    
 }
