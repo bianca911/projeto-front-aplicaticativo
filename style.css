@@ -46,3 +46,18 @@ body {
    
 }
 
+.texto2{
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+    text-align: center;
+}
+
+.blabla{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
