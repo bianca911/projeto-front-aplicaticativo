@@ -3,6 +3,24 @@
  }
 
  h1 {
-    font-family: Holtwood One ;
+    font-family: HoltWood One Sc;
+    color: #EF124F;
+    padding-top: 10px;
+    font-size: 38px;
+    text-align: center;
+ }
 
+ h3 {
+   font-family: Imperial Script;
+   color: #ff6992;
+   padding-left: 27px;
+   padding-bottom: 0%;
+   font-size: 38px;
+ }
+
+ img {
+   height: 330px;
+   width: 250px;
+   padding-left: 30px;
+   padding-top: 0%;
  }
