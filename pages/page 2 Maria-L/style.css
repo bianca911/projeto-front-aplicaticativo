@@ -1,31 +1,85 @@
-body{
+body {
     background-color: #00002B !important;
+    margin: 0;   
+    padding: 0; 
 }
 
 .genero {
     font-family: "Bungee", sans-serif;
-  font-weight: 400;
-  font-size: 200%;
-  font-style: normal;
-  color: #3D723F;
+    font-weight: 400;
+    font-size: 200%;
+    font-style: normal;
+    color: #3D723F;
+    padding-left: 30px; 
 }
 
-.texto{
-font-family: "IM Fell Great Primer SC", serif;
-font-weight: 400;
-font-size: 170%;
-font-style: normal;
-color: #62C455;
-}
-
-img{
-    height: 300px;
-    width: auto;
-    padding-left: 30px;
-}
-
-.filmes{
+.filmes {
     display: flex;
-    align-items: center;
-    gap: 300;
+    align-items: flex-start; 
+    gap: 50px; 
+    padding-left: 30px; 
+    padding-right: 30px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    margin: 0;
+}
+
+.filme-acao {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+.texto {
+    font-family: "IM Fell Great Primer SC", serif;
+    font-weight: 400;
+    font-size: 170%;
+    font-style: normal;
+    color: #62C455;
+    text-align: center;
+    padding: 0 10px; 
+}
+
+.filmeavaliacao {
+    display: flex;
+    align-items: flex-start; 
+    gap: 10px; 
+    margin-bottom: 10px;
+    margin-left: 0;
+}
+
+.cartaz {
+    height: 300px; 
+    width: auto;
+    padding-left: 0;
+}
+
+.avaliacao {
+    height: auto;
+    width: 150px;
+    align-self: flex-start;
+}
+
+.opniao {
+    color: aliceblue;
+    max-width: 350px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: justify;
+    padding: 0 10px; 
+    line-height: 1.5;
+}
+
+.resumo, .resumo2, .resumo3 {
+    color: aliceblue;
+    max-width: 250px; 
+    font-size: 90%; 
+    line-height: 1.4;
+    margin: 0;
+    margin-left: 250px;
+    margin-top: -185px;
+    padding-left: 5px; 
+    align-self: flex-start;
 }
