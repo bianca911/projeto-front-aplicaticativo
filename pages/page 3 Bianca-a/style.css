@@ -3,83 +3,134 @@ body{
 }
 h1{
     padding-top: 10px;
-    font-family: bungee;
+    font-family: bungee; 
     text-align: center;
     color: #AB51DF;
     font-size: 60px;
 }
 h3{
-    font-family: inspiration;
+    font-family: inspiration; 
     padding-left: 45px;
     padding-bottom: 0%;
     color: #D85CFC;
     font-size: 40px;
 }
-.imagem1 img{
-    display: flex;
-    height: 335px;
-    width: 255px;
-    padding-left: 30px;
-    padding-top: 0;
-}
-.avaliacaonc img{
-    display: flex;
-    height: 100px;
-}
-.primeirasimagens{
-    display: flex;
-    align-items: flex-start;
-    gap: 2px;
-}
-  .coluna-esquerda{
-    display: flex;
-    flex-direction: column;
-}
-  .sinopse1{
-    padding-left: 10px;
-    color: #CF94EC;
-    font-family: 'IM FELL Double Pica SC', serif;
-    max-width: 260px;
-    font-size: 16px;
-}
- .opiniao1{
-    color: #CF94EC;
-    font-family: 'IM FELL Double Pica SC', serif;
-    max-width: 545px;
-    padding-left: 20px;
- }
 
- .imagem2 img{
+.tudo{
     display: flex;
-    height: 335px;
-    width: 255px;
-    padding-left: 30px;
-    padding-top: 0;
+    flex-direction: row; 
+    flex-wrap: wrap; 
+    justify-content: space-around; 
+    align-items: flex-start; 
+    width: 90%; 
+    margin: 0 auto; 
+    margin-left: -45px;
 }
-.avaliacaov img{
-    display: flex;
-    height: 100px;
-}
-.segundasimagens{
-    display: flex;
+
+.filme1, .filme2, .filme3{
+    width: 300px; 
+    padding: 1px;
+    margin-bottom: 20px; 
+    display: flex; 
+    flex-direction: column;
     align-items: flex-start;
-    gap: 2px;
 }
-  .coluna-esquerda{
+.filme1{
+    margin-right: 90px;
+}
+.filme2{
+    margin-right: 90px;
+}
+.filme3{
+    margin-right: -120px;
+}
+
+.primeirasimagens, .segundasimagens, .terceirasimagens {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start; 
+    gap: 15px; 
+}
+.primeirasimagens, .terceirasimagens{
+    margin-bottom: -20px;
+}
+
+.imagem1 img, .imagem2 img, .imagem3 img{
+    height: 300px;
+    width: 200px;
+    padding-left: 0;
+    margin: auto;
+}
+.avaliacaonc img, .avaliacaov img, .avaliacaop img{
+    height: 75px;
+}
+
+.lado-direito, .meio, .final {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.sinopse1, .sinopse2, .sinopse3{
+    padding-left: 0;
+    color: #CF94EC;
+    font-family: 'IM FELL Double Pica SC', serif;
+    max-width: 215px;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.opiniao1, .opiniao2, .opiniao3{
+    color: #CF94EC;
+    font-family: 'IM FELL Double Pica SC', serif;
+    padding-left: 0;
+    margin-top: 10px;
+    font-size: 14px;
+    margin-bottom: -30px;
+}
+.opiniao1{
+    max-width: none;
+    padding-top: -50px;
+}
+
+.titulo1{
+    padding-left: 35px;
+    padding-top: 10px;
+}
+.titulo2{
+    padding-left: 75px;
+    padding-top: 10px;
+}
+.titulo3{
+    padding-left: 79px;
+    padding-top: 10px;
+}
+
+h3{
+    padding-left: 0;
+    font-size: 30px;
+}
+
+.coluna-esquerda{
     display: flex;
     flex-direction: column;
 }
-  .sinopse2{
-    padding-left: 10px;
+
+.data1{
     color: #CF94EC;
     font-family: 'IM FELL Double Pica SC', serif;
-    max-width: 260px;
-    font-size: 16px;
+    font-size: 14px;
+    padding-left: 335px;
 }
- .opiniao2{
+.data2{
     color: #CF94EC;
     font-family: 'IM FELL Double Pica SC', serif;
-    max-width: 545px;
-    padding-left: 20px;
- }
- 
+    font-size: 14px;
+    padding-left: 335px;
+}
+.data3{
+    color: #CF94EC;
+    font-family: 'IM FELL Double Pica SC', serif;
+    font-size: 14px;
+    padding-left: 335px;
+}
