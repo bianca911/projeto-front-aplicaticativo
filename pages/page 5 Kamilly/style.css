@@ -3,24 +3,90 @@
  }
 
  h1 {
+  padding-top: -10px;
     font-family: HoltWood One Sc;
-    color: #EF124F;
-    padding-top: 10px;
-    font-size: 38px;
     text-align: center;
+    color: #ef124f;
+    font-size: 60px;
  }
 
  h3 {
-   font-family: Imperial Script;
-   color: #ff6992;
-   padding-left: 27px;
-   padding-bottom: 0%;
-   font-size: 38px;
+  font-family: Imperial Script;
+    padding-left: 10px;
+    padding-bottom: 0%;
+    color: #ff6992;
+    font-size: 40px;
  }
 
- img {
-   height: 330px;
-   width: 250px;
-   padding-left: 30px;
-   padding-top: 0%;
+ .imagem1 img {
+    display: flex;
+    height: 335px;
+    width: 255px;
+    padding-right: 27px;
+    padding-left: 7px;
+    padding-top: 0;
  }
+
+ .informacoes img {
+     display: flex;
+     height: 100px;
+     padding-left: 233px;
+     position:absolute;
+     top: 145px;
+ }
+
+ .primeirasimagens {
+     display: flex;
+     align-items: flex-start;
+     gap: 2px;
+ }
+
+.coluna-esquerda {
+  display: flex;
+  flex-direction: column;
+}
+
+.sinopse {
+  padding-left: 0px;
+  color: #ff6992;
+  font-family: IM FELL English SC;
+  max-width: 210px;
+  margin-left: 239px;
+  margin-top: -230px;
+}
+
+.opiniao {
+  padding-left: 0px;
+  color: #ff6992;
+  font-family: IM FELL English SC;
+  max-width: 390px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.data {
+  padding-left: 0px;
+  color: #ef124f;
+  font-family: IM FELL French Canon SC;
+  font-size: 14px;
+  margin-left: 350px;
+  
+}
+
+.titulo2 {
+  font-size: 40px;
+  max-width: 350px;
+  margin-top: -665px;
+  margin-bottom: 20px;
+  margin-left: 500px;
+  text-align: center;
+}
+
+.imagem2 {
+  display: flex;
+  height: 335px;
+  width: 255px;
+  padding-right: 27px;
+  padding-left: 500px;
+  padding-top: 0;
+}
