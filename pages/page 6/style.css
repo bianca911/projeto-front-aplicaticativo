@@ -26,12 +26,13 @@ img {
     padding-left: 5px;
 }
 .resenhaA {
-    font-size: 10px;
+    font-size: 9px;
     font-family:'Times New Roman', Times, serif;
     color: white;
     padding-left: 5px;
     gap: 35px;
-    margin-right: 1150px;
+    margin-right: 1255px;
+    margin-top: -60px;
 }
 
 .ind {
@@ -44,25 +45,116 @@ img {
     color: white;
     padding-left: 5px;
     gap: 35px;
-    margin-right: 1150px;
+    margin-left: 29px;
+    margin-top: -10px;
 }
-.estrela {
+.star {
     padding-bottom: -5px;
-    margin-top: -21px;
-    
+    margin-top: -120px;
 }
 
 .Min {
     font-size: 15px;
     font-family:'Times New Roman', Times, serif;
     color: white;
-    padding-left: 5px;
-    gap: 35px;
-    margin-right: 1150px;
+    
+    margin-left: 150px;
+    margin-top: -88px;
 }
 
-.dura {
-    display: inline-block;
-    
-    
+.relogio {
+    margin-top: -110px;
+    margin-left: 115px;
+}
+
+.terror {
+    margin-right: 155px;
+    margin-top: 40px;
+}
+
+
+.t {
+    font-family: "Bungee", sans-serif;
+    color: #A22020;
+    font-size: 36px;
+    margin-left: 25%;
+    margin-top: -680px;
+}
+
+.vila {
+    margin-left: 340px;
+    margin-top: -2px;
+}
+
+.es {
+    margin-left: -43px;
+}
+
+.d {
+    margin-left: -43px;
+}
+
+.v {
+    font-size: 16px;
+    color: #A22020;
+    font-family: "Bungee", sans-serif;
+    margin-left: 26%;
+}
+.qua {
+    height: 20px;
+}
+
+.ver {
+    margin-left: 390px;
+    margin-top: -47px;
+}
+
+.avaa {
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 427px;
+    margin-top: -42px;
+}
+
+.du {
+    margin-left: 500px;
+    margin-top: -80px;
+}
+
+.duu {
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 539px;
+    margin-top: -60px;
+}
+
+.r {
+    font-size: 12px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 350px;
+    margin-right: 799px;
+    margin-top: -20px;
+}
+
+.a {
+    font-family: "Bungee", sans-serif;
+    color: #519548;
+    font-size: 36px;
+    margin-left: 45%;
+    margin-top: -715px;
+}
+
+.oldboy {
+    margin-left: 680px;
+    margin-top: 4px;
+}
+
+.aa{
+    font-size: 16px;
+    color: #519548;
+    font-family: "Bungee", sans-serif;
+    margin-left: 46%;
 }
