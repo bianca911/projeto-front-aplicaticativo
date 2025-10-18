@@ -1,160 +1,128 @@
 body {
-    background-color: #00002B !important;
+    background-color: #00002B;
+    margin: 0; 
+    padding: 20px;
 }
 
-.titulo{
+.titulo h1 {
     font-family: "Bungee", sans-serif;
     font-size: 40px;
     color: #FDBB5F;
-    text-align: center;    
+    text-align: center;
+    margin-bottom: 40px; 
 }
 
-.romance {
+.container-filmes {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 85px;
+    max-width: 1400px; 
+    margin: 0 auto; 
+}
+
+.categoria {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 2%;
+    min-width: 250px;
+    align-items: center;
+    text-align: center;
+}
+
+.romance h2, .terror h3, .acao h4, .animacao h5, .drama h6 {
     font-family: "Bungee", sans-serif;
-    color: #FF3860;
     font-size: 32px;
-    padding-left: 6px;
+    margin-bottom: 10px;
+    line-height: 1;
 }
 
-img {
+.romance h2 { color: #FF3860; }
+.terror h3 { color: #A22020; }
+.acao h4 { color: #519548; }
+.animacao h5 { color: #D85CFC;}
+.drama h6 { color: #377A98;}
+
+.poster {
     border-radius: 12px;
-    padding-left: 5px;
-    
-}
-.antes {
-    font-size: 16px;
-    padding-left: 5px;
-}
-.resenhaA {
-    font-size: 9px;
-    font-family:'Times New Roman', Times, serif;
-    color: white;
-    padding-left: 5px;
-    gap: 35px;
-    margin-right: 1255px;
-    margin-top: -60px;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 10px;
+    padding-left: 0;
 }
 
-.ind {
-    width: 20px;
-}
-
-.ava {
-    font-size: 15px;
-    font-family:'Times New Roman', Times, serif;
-    color: white;
-    padding-left: 5px;
-    gap: 35px;
-    margin-left: 29px;
-    margin-top: -10px;
-}
-.star {
-    padding-bottom: -5px;
-    margin-top: -120px;
-}
-
-.Min {
-    font-size: 15px;
-    font-family:'Times New Roman', Times, serif;
-    color: white;
-    
-    margin-left: 150px;
-    margin-top: -88px;
-}
-
-.relogio {
-    margin-top: -110px;
-    margin-left: 115px;
-}
-
-.terror {
-    margin-right: 155px;
-    margin-top: 40px;
-}
-
-
-.t {
+.titulo-filme {
     font-family: "Bungee", sans-serif;
-    color: #A22020;
-    font-size: 36px;
-    margin-left: 25%;
-    margin-top: -680px;
-}
-
-.vila {
-    margin-left: 340px;
-    margin-top: -2px;
-}
-
-.es {
-    margin-left: -43px;
-}
-
-.d {
-    margin-left: -43px;
-}
-
-.v {
     font-size: 16px;
-    color: #A22020;
-    font-family: "Bungee", sans-serif;
-    margin-left: 26%;
-}
-.qua {
-    height: 20px;
+    line-height: 1.2;
+    margin: 0;
+    text-align: left;
+    width: 100%;
 }
 
-.ver {
-    margin-left: 390px;
-    margin-top: -47px;
+.romance .antes { color: #FF3860; }
+.terror .v { color: #A22020; }
+.acao .aa { color: #519548; }
+.animacao .va { color: #D85CFC;}
+.drama .dia { color: #377A98;}
+
+.cabecalho-filme {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    width: 100%;
 }
 
-.avaa {
-    font-size: 15px;
+.coisinhas {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 10px;
+    width: 100%;
+    justify-content: flex-start;
+}
+
+.coisinhas-item {
+    display: flex;
+    align-items: center;
+}
+
+.icone-coisa {
+    height: 15px;
+    margin-right: 4px;
+    border-radius: 0;
+}
+
+.texto-coisa {
+    font-size: 14px;
     font-family:'Times New Roman', Times, serif;
     color: white;
-    margin-left: 427px;
-    margin-top: -42px;
+    margin: 0;
+    line-height: 1;
 }
 
-.du {
-    margin-left: 500px;
-    margin-top: -80px;
-}
-
-.duu {
-    font-size: 15px;
-    font-family:'Times New Roman', Times, serif;
-    color: white;
-    margin-left: 539px;
-    margin-top: -60px;
-}
-
-.r {
+.resenha {
     font-size: 12px;
     font-family:'Times New Roman', Times, serif;
     color: white;
-    margin-left: 350px;
-    margin-right: 799px;
-    margin-top: -20px;
+    text-align: justify;
 }
 
-.a {
-    font-family: "Bungee", sans-serif;
-    color: #519548;
-    font-size: 36px;
-    margin-left: 45%;
-    margin-top: -715px;
+.ind, .qua, .des, .j, .classificacao { /* Classificações */
+    height: 20px;
+    border-radius: 0;
 }
 
-.oldboy {
-    margin-left: 680px;
-    margin-top: 4px;
+.drama {
+    margin-top: -49px ;
 }
-
-.aa{
-    font-size: 16px;
-    color: #519548;
-    font-family: "Bungee", sans-serif;
-    margin-left: 46%;
+.animacao {
+    margin-top: -28px;
+}
+.acao{
+    margin-top: -18px;
+}
+.terror{
+    margin-top: -9px;
 }
