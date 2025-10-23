@@ -16,7 +16,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    gap: 85px;
+    gap: 55px;
     max-width: 1400px; 
     margin: 0 auto; 
 }
