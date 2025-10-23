@@ -10,7 +10,8 @@ body {
     font-size: 200%;
     font-style: normal;
     color: #3D723F;
-    padding-left: 30px; 
+    padding-left: 700px; 
+    padding-top: 20px;
 }
 
 .filmes {
@@ -38,7 +39,7 @@ body {
     font-style: normal;
     color: #62C455;
     text-align: center;
-    padding: 0 10px; 
+    padding-right: 190px;
 }
 
 .filmeavaliacao {
