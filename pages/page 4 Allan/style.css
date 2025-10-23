@@ -30,17 +30,17 @@ body {
 }
 .container-filmes{
     display: flex;
-    gap: 300px;
+    gap: 30px;
 }
 .img2 {
   height: 300px;
   width: 400;
-  margin-left: 30px;
+  margin-left: 25px;
 }
 .img3 {
     height: 300px;
     width: 400;
-    margin-left: 30px;
+    margin-left: 10px;
     border-radius: 20px;
 }
 .class {
@@ -48,4 +48,94 @@ body {
     margin-left: 5px;
     margin-top: -240px;
 
+}
+.data {
+    margin-left: 290px;
+    margin-top: -285px;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+}
+.data3 {
+    margin-left: 275px;
+    margin-top: -285px;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+}
+.estrela {
+    height: 25px;
+    width: 25px;
+    margin-left: 235px;
+}
+.estrela1 {
+    height: 25px;
+    width: 25px;
+    margin-left: 225px;
+}
+.nota {
+    color: white;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 270px;
+    margin-top: -30px;
+}
+.nota1 {
+    color: white;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 260px;
+    margin-top: -30px;
+}
+.relog {
+    height: 25px;
+    width: 25px;
+    margin-left: 235px;
+}
+.relog1 {
+    height: 25px;
+    width: 25px;
+    margin-left: 225px;
+}
+.hora {
+    color: white;
+    margin-left: 270px;
+    margin-top: -25px;
+}
+.hora1 {
+    color: white;
+    margin-left: 260px;
+    margin-top: -25px;
+}
+.sinop {
+    color: #377A98;
+    font-family: "Hammersmith One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 240px;
+    font-size: 20px;
+}
+.sinop1 {
+    color: #377A98;
+    font-family: "Hammersmith One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 230px;
+    font-size: 20px;
+}
+.sinopse {
+    color: white;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    margin-left: 250px
 }
