@@ -20,8 +20,8 @@
 
  .imagem1 img {
     display: flex;
-    height: 335px;
-    width: 255px;
+    height: 318px;
+    width: 229px;
     padding-right: 27px;
     padding-left: 7px;
     padding-top: 0;
@@ -30,7 +30,7 @@
  .informacoes img {
      display: flex;
      height: 100px;
-     padding-left: 233px;
+     padding-left: 210px;
      position:absolute;
      top: 145px;
  }
@@ -51,8 +51,8 @@
   color: #ff6992;
   font-family: IM FELL English SC;
   max-width: 210px;
-  margin-left: 239px;
-  margin-top: -230px;
+  margin-left: 210px;
+  margin-top: -214px;
 }
 
 .opiniao {
@@ -60,7 +60,7 @@
   color: #ff6992;
   font-family: IM FELL English SC;
   max-width: 390px;
-  margin-top: 40px;
+  margin-top: 10px;
   margin-left: 10px;
 }
 
@@ -69,34 +69,36 @@
   color: #ef124f;
   font-family: IM FELL French Canon SC;
   font-size: 14px;
-  margin-left: 350px;
+  margin-left: 345px;
+  margin-top: -10px;
   
 }
 
 .titulo2 {
-  font-size: 40px;
-  max-width: 390px;
-  margin-top: -670px;
+  font-size: -19px;
+  max-width: 430px;
+  margin-top: -640px;
   margin-bottom: 20px;
-  margin-left: 440px;
+  margin-left: 438px;
   text-align: center;
 }
 
 .imagem2 {
   display: flex;
-  height: 335px;
+  height: 318px;
   width: 255px;
   padding-right: 27px;
-  padding-left: 466px;
-  padding-top: 0%;
+  padding-left: 460px;
+  padding-top: 20px;
+  margin-top: -34px;
 }
 
 .informacoes2 {
     display: flex;
-    height: 100px;
-    padding-left: 682px;
+    height: 88px;
+    padding-left: 654px;
     position:absolute;
-    top: 188px;
+    top: 176px;
 }
 
 .sinopse2 {
@@ -104,9 +106,9 @@
     color: #ff6992;
     font-family: IM FELL English SC;
     max-width: 250px;
-    margin-left: 690px;
-    margin-top: -235px;
-    font-size: 15px;
+    margin-left: 658px;
+    margin-top: -196px;
+    font-size: 14px;
 }
 
  .opiniao2 {
@@ -114,8 +116,8 @@
    color: #ff6992;
    font-family: IM FELL English SC;
    max-width: 390px;
-   margin-top: 12px;
-   margin-left: 479px;
+   margin-top: -06px;
+   margin-left: 467px;
    font-size: 15px;
  }
 
@@ -130,26 +132,55 @@
 
  .titulo3 {
   font-size: 40px;
-  max-width: 390px;
-  margin-top: -678px;
+  margin-top: -637px;
   margin-bottom: 20px;
-  margin-left: 905px;
+  margin-left: 870px;
   text-align: center;
  }
 
   .imagem3 {
   display: flex;
-  height: 335px;
+  height: 288px;
   width: 250px;
   padding-right: 27px;
-  padding-left: 953px;
+  padding-left: 965px;
   padding-top: 0;
+  margin-top: 15px;
   }
 
   .informacoes3 {
     display: flex;
-    height: 100px;
-    padding-left: 1189px;
+    height: 88px;
+    padding-left: 1170px;
     position:absolute;
-    top: 176px;
+    top: 154px;
+  }
+
+  .sinopse3 {
+    padding-left: 0px;
+    color: #ff6992;
+    font-family: IM FELL English SC;
+    max-width: 160px;
+    margin-left: 1170px;
+    margin-top: -187px;
+    font-size: 14px;
+  }
+
+  .opiniao3 {
+   padding-left: 0px;
+   color: #ff6992;
+   font-family: IM FELL English SC;
+   max-width: 390px;
+   margin-top: 30px;
+   margin-left: 966px;
+   font-size: 15px;
+  }
+
+  .data3 {
+    padding-left: 0px;
+    color: #ef124f;
+    font-family: IM FELL French Canon SC;
+    font-size: 14px;
+    margin-left: 1290px;
+    margin-top: -10px;
   }
