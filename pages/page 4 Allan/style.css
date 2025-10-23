@@ -8,7 +8,8 @@ body {
   font-weight: 100;
   font-style: normal;
   color: #244A80;
-  margin-left: 90px;
+  display: flex;
+  justify-content: center;
 }
 .aaa{
     font-size: 90px
@@ -26,7 +27,7 @@ body {
 .bananinha {
     display: flex;
     align-items: center;
-    gap: 250px;
+    gap: 190px;
 }
 .container-filmes{
     display: flex;
@@ -136,6 +137,61 @@ body {
     font-family: "Inknut Antiqua", serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 15px;
-    margin-left: 250px
+    font-size: 12px;
+    margin-top: -15px;
+    margin-left: 240px
+}
+.sinopse1 {
+    color: white;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 12px;
+    margin-top: -15px;
+    margin-left: 230px
+}
+.resen {
+    color: #377A98;
+    font-family: "Hammersmith One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 40px;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.resen1 {
+    color: #377A98;
+    font-family: "Hammersmith One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 40px;
+    margin-top: -10px;
+    font-size: 20px;
+}
+.resen2 {
+    color: #377A98;
+    font-family: "Hammersmith One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 40px;
+    margin-top: 37px;
+    font-size: 20px;
+}
+.resenha {
+    color: white;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 12px;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+.resenha1 {
+    color: white;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 12px;
+    margin-left: 30px;
+    margin-top: -10px;
 }
