@@ -85,6 +85,17 @@ body {
     align-self: flex-start;
 }
 
-.data1, .data2, .data3{
+.data1{
     color: #3D723F;
+    padding-left: 370px;
+}
+
+.data2{
+    color: #3D723F;
+    padding-left: 370px;
+}
+
+.data3{
+    color: #3D723F;
+    padding-left: 370px;
 }
