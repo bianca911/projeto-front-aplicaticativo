@@ -1,0 +1,24 @@
+body{
+    background-color: #00002B !important;
+}
+
+.genero {
+    font-family: "Bungee", sans-serif;
+  font-weight: 400;
+  font-size: 200%;
+  font-style: normal;
+  color: #3D723F;
+}
+
+.texto{
+font-family: "IM Fell Great Primer SC", serif;
+font-weight: 400;
+font-size: 170%;
+font-style: normal;
+color: #62C455;
+}
+
+.la{
+    font-size: 300%;
+}
+

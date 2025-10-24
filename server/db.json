@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "AÇÃO",
+      "descricao": "Nada me empolga mais do que explosões! Cada cena me faz sentir a adrenalina correr nas veias! Vem comigo conhecer meus filmes de ação favoritos"
+    },
+    {
+      "id": 2,
+      "nome": "ANIMAÇÃO",
+      "descricao": "É incrível como cada história consegue ensinar e encantar ao mesmo tempo. Te convido a descobrir comigo meus filmes de animação preferidos."
+    },
+    {
+      "id": 3,
+      "nome": "DRAMA",
+      "descricao": "Filmes de drama falam sobre a vida real, sobre sentimentos e decisões que mudam tudo. Vem comigo conhecer meus dramas favoritos..."
+    },
+    {
+      "id": 4,
+      "nome": "ROMANCE",
+      "descricao": "Os filmes de romance me fazem sonhar, sorrir e até derramar algumas lágrimas. Vem se apaixonar comigo conhecendo aos meus filmes de romance preferidos <3"
+    },
+    {
+      "id": 5,
+      "nome": "TERROR",
+      "descricao": "Quanto mais suspense e mistério, melhor! Gosto de mergulhar no clima sombrio e descobrir o que se esconde nas sombras. Se você tem coragem, vem comigo conhecer meus filmes de terror favoritos."
+    }
+  ]
+}

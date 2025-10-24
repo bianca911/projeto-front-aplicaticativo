@@ -1,34 +1,128 @@
 body {
-    background-color: #00002B !important;
+    background-color: #00002B;
+    margin: 0; 
+    padding: 20px;
 }
 
-.titulo{
+.titulo h1 {
     font-family: "Bungee", sans-serif;
     font-size: 40px;
     color: #FDBB5F;
-    text-align: center;    
+    text-align: center;
+    margin-bottom: 40px; 
 }
 
-.romance {
+.container-filmes {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 55px;
+    max-width: 1400px; 
+    margin: 0 auto; 
+}
+
+.categoria {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 2%;
+    min-width: 250px;
+    align-items: center;
+    text-align: center;
+}
+
+.romance h2, .terror h3, .acao h4, .animacao h5, .drama h6 {
     font-family: "Bungee", sans-serif;
-    color: #FF3860;
     font-size: 32px;
-    padding-left: 6px;
+    margin-bottom: 10px;
+    line-height: 1;
 }
 
-img {
+.romance h2 { color: #FF3860; }
+.terror h3 { color: #A22020; }
+.acao h4 { color: #519548; }
+.animacao h5 { color: #D85CFC;}
+.drama h6 { color: #377A98;}
+
+.poster {
     border-radius: 12px;
-    padding-left: 5px;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 10px;
+    padding-left: 0;
 }
-.antes {
+
+.titulo-filme {
+    font-family: "Bungee", sans-serif;
     font-size: 16px;
-    padding-left: 5px;
+    line-height: 1.2;
+    margin: 0;
+    text-align: left;
+    width: 100%;
 }
-.resenhaA {
-    font-size: 10px;
+
+.romance .antes { color: #FF3860; }
+.terror .v { color: #A22020; }
+.acao .aa { color: #519548; }
+.animacao .va { color: #D85CFC;}
+.drama .dia { color: #377A98;}
+
+.cabecalho-filme {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.coisinhas {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 10px;
+    width: 100%;
+    justify-content: flex-start;
+}
+
+.coisinhas-item {
+    display: flex;
+    align-items: center;
+}
+
+.icone-coisa {
+    height: 15px;
+    margin-right: 4px;
+    border-radius: 0;
+}
+
+.texto-coisa {
+    font-size: 14px;
     font-family:'Times New Roman', Times, serif;
     color: white;
-    padding-left: 5px;
-    gap: 35px;
-    margin-right: 1150px;
+    margin: 0;
+    line-height: 1;
+}
+
+.resenha {
+    font-size: 12px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    text-align: justify;
+}
+
+.ind, .qua, .des, .j, .classificacao { /* Classificações */
+    height: 20px;
+    border-radius: 0;
+}
+
+.drama {
+    margin-top: -49px ;
+}
+.animacao {
+    margin-top: -28px;
+}
+.acao{
+    margin-top: -18px;
+}
+.terror{
+    margin-top: -9px;
 }
