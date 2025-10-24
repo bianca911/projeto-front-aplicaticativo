@@ -1,77 +1,87 @@
-body{
+body {
     background-color: #00002B !important;
 }
-.titulo{
- font-family: "Holtwood One SC", serif;
- color: #911315;
- text-align: center;
- font-size: 150%;
- margin-top: auto;
-}
-.subtitulo{
+
+.titulo {
     font-family: "Holtwood One SC", serif;
- color: #ffffff;
- text-align: center;
- font-size: medium;
- margin-top: -03%;
+    color: #911315;
+    text-align: center;
+    font-size: 150%;
+    margin-top: auto;
 }
+
+.subtitulo {
+    font-family: "Holtwood One SC", serif;
+    color: #ffffff;
+    text-align: center;
+}
+
 .img {
     display: flex;
     align-items: center;
     gap: 307px;
 }
 
+
 .img2 {
     height: 300px;
     width: 400;
     margin-left: 10px;
 }
-.nomess{
-        display: flex;
-        align-items: center;
-        gap: 280px;
-        font-family: "Imbue", serif;
-        
-    
+
+.nomess {
+    display: flex;
+    align-items: center;
+    gap: 280px;
+    font-family: "Imbue", serif;
+
+
 }
-.nome1{
+
+.nome1 {
     font-size: large;
     height: 20px;
     width: 200px;
     margin-left: 50px;
     color: aliceblue;
 
-    
+
 }
-.idade{
+
+.idade {
     display: flex;
     align-items: center;
     gap: 230px;
 }
-.idade1{
+
+.idade1 {
     width: 45px;
     height: 45px;
     margin-left: 227px;
     margin-top: -400px;
 }
-.istrela{
+
+.istrela {
     display: flex;
     align-items: center;
     gap: 115px;
 }
-.istrela1{
+
+.istrela1 {
     width: 150px;
     height: 50px;
     margin-left: 230px;
     margin-top: -500px;
 
 }
-.textinhx{
+
+.textinhx {
     display: flex;
     align-items: center;
     gap: 70px;
 }
-.textx1{
+
+.textx1 {
     font-size: smaller;
     color: white;
     width: 200px;
@@ -79,12 +89,14 @@ body{
     margin-left: 230px;
     margin-top: -270px;
 }
-.opiniao{
+
+.opiniao {
     display: flex;
     align-items: center;
     gap: 120px;
 }
-.opiniao1{
+
+.opiniao1 {
     margin-left: 20x;
     font-size: medium;
     color: white;
