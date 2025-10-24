@@ -3,17 +3,17 @@
     {
       "id": 1,
       "nome": "AÇÃO",
-      "descricao": "Nada me empolga mais do que explosões! Cada cena me faz sentir a adrenalina correr nas veias! Vem comigo conhecer meus filmes de ação favoritos"
+      "descricao": "Nada me empolga mais do que explosões, fugas e aventuras arriscadas! Cada cena me faz sentir a adrenalina correr nas veias! Neste post, você vai conhecer meus filmes de ação favoritos."
     },
     {
       "id": 2,
       "nome": "ANIMAÇÃO",
-      "descricao": "É incrível como cada história consegue ensinar e encantar ao mesmo tempo. Te convido a descobrir comigo meus filmes de animação preferidos."
+      "descricao": "É incrível como cada história animada consegue ensinar e encantar ao mesmo tempo. Te convido a ver meus filmes de animação preferidos para passar o tempo. ^^"
     },
     {
       "id": 3,
       "nome": "DRAMA",
-      "descricao": "Filmes de drama falam sobre a vida real, sobre sentimentos e decisões que mudam tudo. Vem comigo conhecer meus dramas favoritos..."
+      "descricao": "Filmes de drama falam sobre a vida real, sobre sentimentos e decisões que mudam tudo. Acho que se quer sentir uma dor emocional, meu post é para você..."
     },
     {
       "id": 4,
@@ -23,7 +23,7 @@
     {
       "id": 5,
       "nome": "TERROR",
-      "descricao": "Quanto mais suspense e mistério, melhor! Gosto de mergulhar no clima sombrio e descobrir o que se esconde nas sombras. Se você tem coragem, vem comigo conhecer meus filmes de terror favoritos."
+      "descricao": "Quanto mais suspense e mistério, melhor! Gosto de mergulhar no clima sombrio e descobrir o que se esconde nas sombras. Se você tem esse sentimento vendo filmes de terror, conheça minhas recomendações!! "
     }
   ]
 }
