@@ -37,6 +37,22 @@
 [⤷ ゛Cʟɪǫᴜᴇ ᴀǫᴜɪˎˊ˗~](https://www.figma.com/design/tRbJEQ7SvRJcazsnI3eTdk/mobile?node-id=0-1&p=f&t=W1xWM0LvMVcoPL9y-0)
 
 # Sobre o blog
+Nosso site tem como intuito ser um blog de filmes com opiniões e comentários sobre filmes com
+ nome
+ notas avaliativas
+ nome
+ sinopse
+ duração
+ ano de lançamento. 
+dia do post 
+
+Nosso blog tem uma diversidade de categorias de filmes como:
+romance 
+ação
+animação
+drama
+terror
+e ainda uma página de recomendações, e óbvio, também tem uma página inicial que permite você navegar de forma mais acolhedora e simples, e falando em simplicidade nosso site tem uma navbar para o cliente se movimentar livremente entre as categorias de filmes.
 
 ## Funcionalidades
 
@@ -65,6 +81,9 @@ React Native
 ## Página inicial-Gigi
 
 ## Terror-Mayko
+Primeiro eu vou dar um resumo do que e queria com a minha página, eu queria que fosse uma página que anuncia os "top filmes" mais assistidos dando a minha opiniao e avaliaçao sobre o filme e também deixei várias informaçoes sobre o filme como ano de lançamento, duração etc...
+## aqui as imagens de como ficou meu projeto finalizado:
+![Print da Tela Inicial ](./pages/mayko's%20page/assets-mayko/ppppppp.png)
 
 ## Ação-Maria luiza
  
