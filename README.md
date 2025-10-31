@@ -10,6 +10,14 @@
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [páginas](#páginas)
+- [página inicial](#página-inicial-gigi)
+- [página-Terror](#terror-mayko)
+- [página-Ação](#ação-maria-luiza)
+- [página-Animação](#animação-bianca-amorim)
+- [página-Drama](#drama-alan)
+- [página-Romance](#romance-kamilly)
+- [página-Recomendações](#recomendações-bianca-pereira)
+
 
 
 ---
@@ -53,6 +61,26 @@ Gemini  AI e
 
 React Native
 # páginas
+
+## Página inicial-Gigi
+
+## Terror-Mayko
+
+## Ação-Maria luiza
+ 
+ ## Animação-Bianca Amorim
+
+ ## Drama-Alan
+
+ ## Romance-Kamilly
+
+## Recomendações-Bianca Pereira
+
+
+
+
+
+
 
 
 
