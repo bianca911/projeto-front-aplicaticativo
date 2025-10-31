@@ -110,6 +110,33 @@ Usei códigos básicos
 
 ## Recomendações-Bianca Pereira
 
+#### Minha tela apresenta uma recomendação de cada um dos gêneros apresentados, que foram escolhidos por mim e que gosto bastante.
+
+## Imagem da tela finalizada
+![Print da Tela de recomendações](./pages/page%206/img/recomendacaoTela.png)
+
+#### Os textos que aparecem na parte de baixo de cada um dos posters dos filmes, são opiniões reais minhas e representam o que achei sobre cada um deles, o mesmo serve para as valiações(representadas pelas estrelas), não são uma avaliação real com embasamento, apenas é a avaliação que acho que se emcaixa com o que achei sobre o filme.
+
+## Sobre o código
+
+#### Uma forma de padronizar foi usar containers pais e filhos, dando o mesmo nome para todas as divs que seguiriam aquele mesmo padão, exemplo:
+
+#### Todos os filmes estão em uma div que possui o gênero dela e "categoria" do lado, sendo a forma de padronizar.
+![Exemplo](./pages/page%206/img/c2.png)
+
+![Exemplos](./pages/page%206/img/c.png)
+
+#### A mesma coisa serve para as informações logo abaixo do poster:
+![Mais exemplos](./pages/page%206/img/coisinhas.png)
+
+#### Específico da div "coisinhas":
+![Exemplo da div coisinhas](./pages/page%206/img/coi2.png)
+
+## Uma dificuldade que não soube arrumar
+
+#### Durante o código, as seções de cada categoria dos filmes ficavam desalinhadas, o primeiro (romance) funcionava, mas os outros iam abaixando, então tive que usar códigos manuais para resolver.
+![Código que foi feito manualmente](./pages/page%206/img/categorias.png)
+
 
 
 
