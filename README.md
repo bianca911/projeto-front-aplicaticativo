@@ -84,7 +84,18 @@ React Native
 Primeiro eu vou dar um resumo do que e queria com a minha página, eu queria que fosse uma página que anuncia os "top filmes" mais assistidos dando a minha opiniao e avaliaçao sobre o filme e também deixei várias informaçoes sobre o filme como ano de lançamento, duração etc...
 ## aqui as imagens de como ficou meu projeto finalizado:
 ![Print da Tela Inicial ](./pages/mayko's%20page/assets-mayko/ppppppp.png)
+ eu usei comandos básicos de html e css como "img" "h1", porém a forma na qual eu organizei meu código foi um pouco diferente dos projetos passados, eu ao invés de posicionar item por item, eu adicionei todos os itens ao mesmo tempo e coloquei os comandos alin-itens e gap para distanciar os itens de forma igual, por exemplo eu coloquei apenas uma imagem, mas com os comandos gap e alin itens eu consigo mecher todos os itens com distancias exatas, oque eu nao conseguiria se apenas fizesse item por item
+ ## imagem de exemplo de como eu organizei meu código:
+ ![Print da Tela Inicial ](./pages/mayko's%20page/assets-mayko/código1.png)
+  ![Print da Tela Inicial ](./pages/mayko's%20page/assets-mayko/código2.png)
 
+isso alinhou todos os itens de forma igual, e se eu editasse o flexblox de um, o outro se alterava tambem, seguindo aqueles parametros de "pai" e os "filhos" dai foi bem mais facil do que posicionar item or item em seu local designado.
+Com os meus textos foi básicamente a mesma coisa, eu apenas substitui os comandos "img" por "p" ou "h1"
+## imagens do meus textos:
+ ![Print da Tela Inicial ](./pages/mayko's%20page/assets-mayko/código3.png)
+ ![Print da Tela Inicial ](./pages/mayko's%20page/assets-mayko/código4.png)
+ 
+ fazendo esses mesmos passos eu consegui organizar meu código de forma harmonica deixando os itens separados em "caixinhas" que sao as divs maes e os itens separados que seguiam os criterios q eu colocava na div maior.
 ## Ação-Maria luiza
  
  ## Animação-Bianca Amorim
