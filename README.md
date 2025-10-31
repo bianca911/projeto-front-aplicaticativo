@@ -99,6 +99,10 @@ Com os meus textos foi básicamente a mesma coisa, eu apenas substitui os comand
 ## Ação-Maria luiza
  
  ## Animação-Bianca Amorim
+Minha página é uma recomendação de três filmes de animação que eu considero bons
+## Projeto finalizado:
+![Print da Tela Inicial ](./pages/page%203%20Bianca-a/assets-bianca-a/site%20web%20bianca-a.png)
+Usei códigos básicos
 
  ## Drama-Alan
 
