@@ -79,6 +79,16 @@ React Native
 # páginas
 
 ## Página inicial-Gigi
+Minha página é a tela inicial do projeto, que direcionará para as sessões dos filmes.
+
+![Tela iniicial](./pages/page%206/img/tela_gi-convertido-de-jpg.png)
+
+### Sobre a página
+Na parte superior criei a logo do blog. Fiz cards interativos que levam para as outras páginas e um botão que vai direto para a página de recomendações.
+
+### O que foi usado para a composição dos cards
+Json Server e java script.
+
 
 ## Terror-Mayko
 Primeiro eu vou dar um resumo do que e queria com a minha página, eu queria que fosse uma página que anuncia os "top filmes" mais assistidos dando a minha opiniao e avaliaçao sobre o filme e também deixei várias informaçoes sobre o filme como ano de lançamento, duração etc...
@@ -97,16 +107,41 @@ Com os meus textos foi básicamente a mesma coisa, eu apenas substitui os comand
  
  fazendo esses mesmos passos eu consegui organizar meu código de forma harmonica deixando os itens separados em "caixinhas" que sao as divs maes e os itens separados que seguiam os criterios q eu colocava na div maior.
 ## Ação-Maria luiza
+#### Fiz minha página com três filmes de ação que sinto que todo mundo dereria ver.
+
+![Tela da Maria](./pages/page%206/img/tela_maria.png)
+
+### Sobre o projeto
+
+Minha página possui uma navbar que vai para as outras sessões. Ela também tem as principais informações sobre os trêS filmes que escolhi, que são elas a avaliação, ano de lançamento, duração, sinopse e uma resenha minha, sendo esse o mesmo padão para todos os filmes. 
+
+
  
  ## Animação-Bianca Amorim
-Minha página é uma recomendação de três filmes de animação que eu considero bons
+Minha página é uma recomendação de três filmes de animação que eu considero bons, e que realmente gosto.
 ## Projeto finalizado:
 ![Print da Tela Inicial ](./pages/page%203%20Bianca-a/assets-bianca-a/site%20web%20bianca-a.png)
-Usei códigos básicos
+Usei códigos básicos para fazer o projeto.
+
+### Sobre minha página
+ Minha página mostra, os poster dos respectivos filmes na imagem, mostra também o seu nome, ano de lançamento, avaliação e duração do filme, data de publicação dos posts, sinopse e uma visão minha sobre esses filmes.
 
  ## Drama-Alan
+ Quis fazer uma página com os filmes de drama que mais me marcaram nos últimos anos.
+
+ ![Tela drama](./pages/page%206/img/tela_alan.png)
+
+ ### Minha página
+Mostrei três filmes de dramas no qual eu gosto e as suas capas.
+Fiz uma página que mostra avaliação, ano de lançamento, classificação indicativa, tempo de duração, a sinopse do filme e uma resenha minha, com as minhas opiniões sobre os filmes
 
  ## Romance-Kamilly
+Fiz também trêS filmes que me fizeram sentir algo diferente, sendo eles de romance.
+
+ ![tela de romance](./pages/page%206/img/tela_kamilly.png)
+
+### Sobre a minha tela
+Coloquei a classificação indicativa, avaliação do filme, ano de lançamento, duração do filme sinopse, uma resenha minha e quando a publicação foi feita.
 
 ## Recomendações-Bianca Pereira
 
