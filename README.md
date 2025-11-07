@@ -4,7 +4,7 @@
 
 
 
-- [Integrantes do grupo:](#integrantes-do-grupo)
+- [Integrantes do grupo](#integrantes-do-grupo)
 - [Protótipo Figma](#link-do-protótipo-no-figma)
 - [Sobre o blog](#sobre-o-blog)
 - [Funcionalidades](#funcionalidades)
@@ -34,31 +34,31 @@
 ---
 
 ## Link do Protótipo no Figma 
-[⤷ ゛Cʟɪǫᴜᴇ ᴀǫᴜɪˎˊ˗~](https://www.figma.com/design/tRbJEQ7SvRJcazsnI3eTdk/mobile?node-id=0-1&p=f&t=W1xWM0LvMVcoPL9y-0)
+[⤷ ゛Cʟɪǫᴜᴇ ᴀǫᴜɪˎˊ˗~](https://www.figma.com/design/t92NF4NFuDeUA6OaYRKeBL/Front?node-id=0-1&t=jstdxXnXIzraEdo4-1)
 
 # Sobre o blog
 Nosso site tem como intuito ser um blog de filmes com opiniões e comentários sobre filmes com
- nome
- notas avaliativas
- nome
- sinopse
- duração
- ano de lançamento. 
-dia do post 
+ nome dos filmes;
+ notas avaliativas;
+ sinopse;
+ duração;
+ ano de lançamento;
+ dia do post,
 
 Nosso blog tem uma diversidade de categorias de filmes como:
-romance 
-ação
-animação
-drama
-terror
-e ainda uma página de recomendações, e óbvio, também tem uma página inicial que permite você navegar de forma mais acolhedora e simples, e falando em simplicidade nosso site tem uma navbar para o cliente se movimentar livremente entre as categorias de filmes.
+
+Ação
+Animação
+Drama
+Romance
+Terror
+(também temos a página inicial e a navbar que permite você navegar de forma mais intuitiva e simples dentre essas categorias)
 
 ## Funcionalidades
 
 Liste as principais características e funcionalidades do seu aplicativo.
 
-* Integração com API 
+* Integração com API (utilizando JSON SERVER e JavaScript)
 * Navegação intuitiva 
 * É um site público sem a necessidade de login.
 * Contém uma área de "Recomendações de Filmes"
@@ -68,18 +68,17 @@ Liste as principais características e funcionalidades do seu aplicativo.
 
  A principal tecnologia utilizadas durante o processo:
 
-* **Sites para auxílio:** 
+*HTML e CSS, JSON SERVER e JavaScript
  
-Gemini  AI e 
- Deep Seek
-(Grande parte do código foi feito manualmente, apenas em certas partes com envolvimento de APIs ou coisas muito espécificas útilizamos a IA)
-* **Tecnologia principal:** 
+**Sites para auxílio:**
+  
+* bootstrap
 
-React Native
 # páginas
 
 ## Página inicial-Gigi
 Minha página é a tela inicial do projeto, que direcionará para as sessões dos filmes.
+(para rodar o server com os cards é necessário entrar na pasta server (cd server) no projeto e rodar (npx json-server --watch db.json --port 3000))
 
 ![Tela iniicial](./pages/page%206/img/tela_gi-convertido-de-jpg.png)
 
